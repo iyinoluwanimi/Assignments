@@ -1,0 +1,61 @@
+5.1
+a) for, while
+b) after
+c) switch
+d) continue
+e) &&
+f) false
+g) static
+
+5.2
+a) false, using default isn't compulsory
+b) false, it isn't required because it is the last case of the switch statement
+c) false, both statements have to be true
+d) true
+e) true
+f) false, we use different cases to check for differentrange of values
+g) true
+
+5.4
+a)Line 1: i was initialized but not declared,Line 2: the semicolon is meant to be an open curly braces
+b)Line 1: k was initialized but not declared, using decimal number isn't recommended in loop, using an integer is better
+c)There is meant to be break in case 1
+d)line 2: it is meant to be n <= 10 not n < 10
+
+5.5
+a)counter : The variable in charge of how many times the loop works
+b)initial value : The first value assigned to the counter that determines how the loop will work
+c)condition : This helps continue the loop when true and stops the loop when false
+d)increment/decrement : What changes the value of the counter in the loop to help prevent the condition of the loop from being always true
+
+5.6
+a)for while iteration statement the number of reptition is unknown while for iteration the number of repetition is known
+b)while iteration has a sentinel value while for iteration has a counter
+c)while iteration determines when to stop while for iteration has definite iteration
+
+5.7
+Using do while would be better because that is what it is used for
+
+5.8
+break is used to exit the loop/control statement while continue skips  the current iteration and continues looping
+
+5.9
+a) i was initialized but not declared and it is meant to be i++ not i+
+b) it is meant to be case not Case, and a beak is neccessary in the first case statement
+c) The increment/decrement is meant to be i -= 2 not i =+ 1
+d) the statement in the do should be counter += 2; System.out.println(counter); not System.out.println(counter + 1);counter += 2;
+
+5.10
+The code prints "*" 5 times, prints ##### in a new line and repeats this twice
+
+5.13
+If it were a product, the number wont be able to contain the variable size long
+
+5.19
+a) true
+b) false
+c) true
+d) true
+e) true
+f)false
+g)true

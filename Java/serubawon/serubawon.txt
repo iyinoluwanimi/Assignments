@@ -1,0 +1,27 @@
+Name : Balogun Iyinoluwa
+Java Serubawon Assignment
+
+4. Tope wants to get food, Tope goes to a resturant, Tope tells the resturant what she wants to get, The resturants serves her food, She gets her food and she eats her food.
+
+5. 16
+
+9. 24
+
+11. total was printed before it was declared and initialised so total isn't defined.
+
+14. In Declaring a variable, there is no assignment, it only includes the variable type and variable name while Initialising a Variable involves assigning a variable.
+
+17. Right to left,Top to bottom, Left to Right, Right to left,Top to bottom.
+
+19. Compilation Error
+
+24. if/ else is a two choice conditional statement while if/ else if/else is a muliple choice conditional statement
+
+34. == compares integers and decimal numbers while .equals() compares Strings
+
+37. A Short Circuit Evaluation stops evaluating as soon as it already knows the answer, for && if one of the the condition is false it assumes that the entire condition is false
+
+41. A dangling else problem happen in nested if statement, it is when the else statement is in the wrong scope and is working under the wrong scope
+
+44. 
+
