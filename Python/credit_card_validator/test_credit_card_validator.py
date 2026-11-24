@@ -1,4 +1,3 @@
-
 import unittest
 
 from credit_card_validator import get_card_type, is_valid_card
@@ -29,6 +28,16 @@ class TestCreditCardValidator(unittest.TestCase):
 
     def test_rejects_non_digit_characters(self):
         self.assertFalse(is_valid_card("43885760184107AB"))
+
+
+
+
+
+
+
+
+
+
 
 
 if __name__ == "__main__":
